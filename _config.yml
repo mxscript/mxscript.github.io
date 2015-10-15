@@ -1,11 +1,11 @@
-name: "Gereksiz"
+name: "mxscript"
 markdown: redcarpet
 highlighter: pygments
 permalink: :title
 exclude: [README.md, LICENSE, Makefile]
-baseurl: '/gereksiz'
+baseurl: '/'
 
 # Information for the Atom feed
 gereksiz:
-   author: "John Doe"
-   email: "john.doe@mail.sexy"
+   author: "Rodrigo"
+   email: "mxscript@yahoo.com"
